@@ -24,10 +24,13 @@ define("PATH_MAP", "map");
 define("PATH_TEST", "test");
 
 // Views
-define("V_HEADER", "/view/header.php");
-define("V_NAV", "/view/nav.php");
+define("V_HEADER", "/view/Composant/header.php");
+define("V_NAV", "/view/Composant/nav.php");
 define("V_ABOUT", "/view/about.php");
-define("V_FOOTER", "/view/footer.php");
+define("V_FOOTER", "/view/Composant/footer.php");
 define("V_HOME", "/view/home.php");
 define("V_MAP", "/view/map.php");
 define("V_OBJET", "/view/objet.php");
+
+// option
+define("PLUIE", "/view/Composant/rain.php");
