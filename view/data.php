@@ -28,6 +28,9 @@ $newsNumber = 30;
                       array("title" => "voiture", "texte" => "voiture tu voiture voit re voiture turevoi tutu voire tutre voivovivovu vutori", "date" => "voiture 2022","img"=>"koniseg.png"),
                       array("title" => "Meurte chez Apperture🤣", "texte" => "la nouvel branche d'Apperture science travail sur des Macron en 9mm Stinger. Et donc des test balistic sur Humain parfaitment fonctionnel", "date" => "decembre 1992","img"=>"startup.jpg"),
                       array("title" => "Tom est mort👻", "texte" => "Tom c'est fait 1V3 tah gars du nord tu connais. et c'est agresseur on décider de l'EMOTE c'est enculer", "date" => "31 decembre 2022","img"=>"tom.png"),
+                      array("title" => "💥José VS Jean💥", "texte" => "après une dipute dans rue le 28 leur combat aura lieu demain dans le Gymnase Galactique", "date" => "36 decembre 2022","img"=>"Showdown.png"),
+                      array("title" => "Hey toi je pari tose pas de scan🕺", "texte" => "Sachez que l'équipe de for boyard est nul responsable en caps de perte de connaissence, de dessers ou de rickroll", "date" => "31 decembre 2022","img"=>"rick.png"),
+                      array("title" => "Conseil de Sonic 😉", "texte" => "ce qui est trop cool avec le premer avril c'est que tu peu faire une fusillade dans ton college mais tout le monde pensera que c'est une blague", "date" => "28 mais 2023","img"=>"Sonic-Says.png"),
                       
                       
                 );

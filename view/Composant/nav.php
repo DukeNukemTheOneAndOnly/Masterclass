@@ -9,13 +9,17 @@
           <a class="nav-link" id="home" href="./?<?= G_PATH ?>=<?= PATH_HOME ?>">Home</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" id="about" href="./?<?= G_PATH ?>=<?= PATH_ABOUT ?>">About</a>
+          <a class="nav-link" id="auto" href="./?<?= G_PATH ?>=<?= PATH_AUTO ?>">Auto</a>
         </li>
         <li class="nav-item">
           <a class="nav-link" id="map" href="./?<?= G_PATH ?>=<?= PATH_MAP ?>">Map</a>
         </li>
         <li class="nav-item">
           <a class="nav-link" id="map" href="./?<?= G_PATH ?>=<?= PATH_TEST ?>">test</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" id="about" href="./?<?= G_PATH ?>=<?= PATH_ABOUT ?>">About</a>
+        </li>
         </li>
         <li class="nav-item dropdown">
           <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
@@ -25,9 +29,10 @@
             <li><a class="dropdown-item" href="https://www.youtube.com/channel/UC79-udCL-eJAqK2ONabTmHQ">Youtube▶</a></li>
             <li><a class="dropdown-item" href="https://www.twitch.tv/l1nk_r3v">Twitch🕹</a></li>
             <li><a class="dropdown-item" href="https://www.tiktok.com/@bastienreveillon">tiktok🎵</a><li>
+            <li><a class="dropdown-item" href="https://www.wattpad.com/user/LeMaitreConstructeur">Wattpad📜</a><li>
+            <li><a class="dropdown-item" href="https://www.youtube.com/watch?v=GtL1huin9EE">OnlyFan😉</a><li>
           </ul>
         </li>
-
       </ul>
     </div>
   </div>
